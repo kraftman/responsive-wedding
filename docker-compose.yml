@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-  wedding:
+  weddingsite:
     build: .
     ports:
      - "8092:80"
