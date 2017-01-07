@@ -1,9 +1,15 @@
 version: '2'
 
 services:
-  openresty:
+  wedding:
     build: .
-    ports:
-     - "80:80"
+    expose:
+     - "80"
     volumes:
       - ./openresty:/opt/openresty
+
+
+networks:
+  default:
+    external:
+      name: webserver_default
