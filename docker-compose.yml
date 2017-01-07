@@ -4,7 +4,7 @@ services:
   wedding:
     build: .
     ports:
-     - "8082:80"
+     - "8092:80"
     volumes:
       - ./openresty:/opt/openresty
 
