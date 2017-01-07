@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  openresty:
+    build: .
+    ports:
+     - "80:80"
+    volumes:
+      - ./openresty:/opt/openresty
