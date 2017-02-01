@@ -344,3 +344,6 @@
 172.24.0.1 - - [01/Feb/2017:14:58:17 +0000] "GET /favicon.ico?v=1 HTTP/1.1" 200 1150 "http://localhost:8092/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
 172.24.0.1 - - [01/Feb/2017:14:58:48 +0000] "GET / HTTP/1.1" 200 12797 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
 172.24.0.1 - - [01/Feb/2017:14:58:49 +0000] "GET /favicon.ico?v=1 HTTP/1.1" 200 1150 "http://localhost:8092/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
+172.24.0.1 - - [01/Feb/2017:15:04:29 +0000] "GET /img/onknee-medium.jpg HTTP/1.1" 404 576 "http://localhost:8092/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
+172.24.0.1 - - [01/Feb/2017:15:04:30 +0000] "GET / HTTP/1.1" 200 12796 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
+172.24.0.1 - - [01/Feb/2017:15:04:31 +0000] "GET /favicon.ico?v=1 HTTP/1.1" 200 1150 "http://localhost:8092/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
